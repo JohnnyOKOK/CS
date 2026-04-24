@@ -3,8 +3,18 @@ https://gamebanana.com/mods/396006
 
 Thank you, author! I really love these quests. They have a wealth of new elements while retaining the original style—truly fantastic. I'm using CZ installed from Steam. Your quest pack had many missing files, which I've spent time completing. I hope this helps other players.
 
-Important Missing Files:
+24.4.2026 Second Fix
+===================================
+Added teammate avatars.
+\czero\gfx\thumbnails\skins\***css.tga
 
+Fixed the issue of the "Port" map failing to load in the Terrorist mission on "Hard" difficulty.
+\czero\MissionPacks\CSSTODT\Hard.vdf
+
+
+16.4.2026 First Fix
+===================================
+Important Missing Files:
 Dust
 \czero\models\player\spetsnazcss\spetsnazcss.mdl
 \czero\models\player\terrorcss\terrorcss.mdl
